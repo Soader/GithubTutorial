@@ -4,5 +4,6 @@ public class Other {
 	public static void hello(){
 		System.out.println("Hello, I'm Other.");
 		//comment
+		//New change
 	}
 }
